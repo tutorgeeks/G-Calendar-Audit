@@ -2,7 +2,8 @@
 Simple lazy script to check for public Google Calendar. 
 
 Reference: 
-1. https://medium.com/@logicbomb_1/ok-google-please-reveal-everyones-public-calendar-27523206f9ac
+1. https://thehackernews.com/2019/09/google-calendar-search.html 
+2. https://medium.com/@logicbomb_1/ok-google-please-reveal-everyones-public-calendar-27523206f9ac
 2. https://sites.google.com/securifyinc.com/secblogs/exploitingcalendars
 
 # Usage
