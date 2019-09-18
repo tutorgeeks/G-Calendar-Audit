@@ -1,5 +1,5 @@
 # G-Calendar-Audit
-Simple lazy script to check for public Google Calendar. 
+Simple script to check for public Google Calendar. 
 
 Reference: 
 1. https://thehackernews.com/2019/09/google-calendar-search.html 
