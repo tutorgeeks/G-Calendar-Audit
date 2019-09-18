@@ -17,7 +17,7 @@ Reference:
    
  # Output
 
-- Make available to public: abc@gmail.com
+- Public access:: abc@gmail.com
 - Access Restricted: xyz@gmail.com
    
    
