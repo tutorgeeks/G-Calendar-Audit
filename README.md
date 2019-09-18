@@ -17,12 +17,8 @@ Reference:
 	-	xyz@gmail.com
    
  # Output
-
--	Trying to login into Google...
--	Successfully logged into Google..
-- List of email ID that will be tested:['abc@gmail.com', 'xyz@gmail.com']
 -	Public access : abc@gmail.com
-- Access Restricted : xyz@gmail.com
+-	Access Restricted : xyz@gmail.com
    
    
   
